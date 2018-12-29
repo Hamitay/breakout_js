@@ -9,8 +9,5 @@ It is currently a WIP.
 
 TODO:
 
-* Finish refactoring the game into components
-* Refactor the whole game into a simple reusable component
 * Add new features such as power-ups and sounds
-* Add a scoreboard
 * Add unit tests
